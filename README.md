@@ -24,10 +24,10 @@ The **Course Registration System** is a web-based platform that allows students 
 ---
 
 ## 🔥 Features
-- **🧑‍🎓 Student Features **
-- ** View available courses **
-- ** Register for a course **
-- ** View registered courses **
+- 🧑‍🎓 Student Features 
+-  View available courses 
+-  Register for a course 
+-  View registered courses 
 
 ---
 
